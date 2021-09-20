@@ -1,3 +1,0 @@
-# GIT
-
--feature A
